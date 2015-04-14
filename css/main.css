@@ -146,6 +146,7 @@ nav a:hover {
     h1 {
         font-weight: 100;
         font-size: 3em;
+        line-height: 1.5em;
     }
     h3 {
         font-weight: 200;
